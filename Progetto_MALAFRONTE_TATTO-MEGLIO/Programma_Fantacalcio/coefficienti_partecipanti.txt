@@ -1,0 +1,6 @@
+Fantacalcio a 6: 0.6
+Fantacalcio a 8: 0.8
+Fantacalcio a 10: 1
+Fantacalcio a 12: 1.1
+Fantacalcio a 14: 1.2
+Fantacalcio a 16: 1.3

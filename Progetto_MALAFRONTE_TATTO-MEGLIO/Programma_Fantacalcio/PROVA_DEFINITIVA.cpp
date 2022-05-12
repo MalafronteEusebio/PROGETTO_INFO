@@ -177,7 +177,7 @@ cin>>sceltasquadra;
 ksquadra scelta1[20];
       fstream fin;   /*il programma legge il file delle squadre e carica il coefficiente della squadra inserita dall' utente*/
      fin.open ("Squadre.txt");
-     for(int i=0;i<10;i++) {
+     for(int i=0;i<20;i++) {
      fin>>scelta1[i].squadra;
      fin>>scelta1[i].k1;}
       fin.close();
